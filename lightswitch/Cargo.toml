@@ -1,0 +1,6 @@
+[package]
+name = "lightswitch"
+version = "0.1.0"
+authors = ["Jesse Stowijk <stolwijkjesse@gmail.com>"]
+
+[dependencies]
